@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="TSQL" Class="dbContextDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-ROMV3ETI;Initial Catalog=TSQL;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False" SettingsObjectName="ProjekatDeoPrvi.Properties.Settings" SettingsPropertyName="TSQLConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="Production.Suppliers" Member="Suppliers">
+    <Type Name="Supplier">
+      <Column Name="supplierid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="companyname" Type="System.String" DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="contactname" Type="System.String" DbType="NVarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="contacttitle" Type="System.String" DbType="NVarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="city" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="region" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="postalcode" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="country" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="phone" Type="System.String" DbType="NVarChar(24) NOT NULL" CanBeNull="false" />
+      <Column Name="fax" Type="System.String" DbType="NVarChar(24)" CanBeNull="true" />
+    </Type>
+    <InsertFunction FunctionId="FunctionId1">
+      <Argument Parameter="companyname" Member="companyname" />
+      <Argument Parameter="contactname" Member="contactname" />
+      <Argument Parameter="contacttitle" Member="contacttitle" />
+      <Argument Parameter="address" Member="address" />
+      <Argument Parameter="city" Member="city" />
+      <Argument Parameter="region" Member="region" />
+      <Argument Parameter="postalcode" Member="postalcode" />
+      <Argument Parameter="country" Member="country" />
+      <Argument Parameter="phone" Member="phone" />
+      <Argument Parameter="fax" Member="fax" />
+    </InsertFunction>
+    <UpdateFunction FunctionId="FunctionId2">
+      <Argument Parameter="supplierid" Member="supplierid" />
+      <Argument Parameter="companyname" Member="companyname" />
+      <Argument Parameter="contactname" Member="contactname" />
+      <Argument Parameter="contacttitle" Member="contacttitle" />
+      <Argument Parameter="address" Member="address" />
+      <Argument Parameter="city" Member="city" />
+      <Argument Parameter="region" Member="region" />
+      <Argument Parameter="postalcode" Member="postalcode" />
+      <Argument Parameter="country" Member="country" />
+      <Argument Parameter="phone" Member="phone" />
+      <Argument Parameter="fax" Member="fax" />
+    </UpdateFunction>
+    <DeleteFunction FunctionId="FunctionId3">
+      <Argument Parameter="supplierid" Member="supplierid" />
+    </DeleteFunction>
+  </Table>
+  <Function Id="FunctionId1" Name="Production.InsertSupplier" Method="InsertSupplier">
+    <Parameter Name="companyname" Type="System.String" DbType="NVarChar(40)" />
+    <Parameter Name="contactname" Type="System.String" DbType="NVarChar(30)" />
+    <Parameter Name="contacttitle" Type="System.String" DbType="NVarChar(30)" />
+    <Parameter Name="address" Type="System.String" DbType="NVarChar(60)" />
+    <Parameter Name="city" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="region" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="postalcode" Type="System.String" DbType="NVarChar(10)" />
+    <Parameter Name="country" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="phone" Type="System.String" DbType="NVarChar(24)" />
+    <Parameter Name="fax" Type="System.String" DbType="NVarChar(24)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Id="FunctionId2" Name="Production.UpdateSupplier" Method="UpdateSupplier">
+    <Parameter Name="supplierid" Type="System.Int32" DbType="Int" />
+    <Parameter Name="companyname" Type="System.String" DbType="NVarChar(40)" />
+    <Parameter Name="contactname" Type="System.String" DbType="NVarChar(30)" />
+    <Parameter Name="contacttitle" Type="System.String" DbType="NVarChar(30)" />
+    <Parameter Name="address" Type="System.String" DbType="NVarChar(60)" />
+    <Parameter Name="city" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="region" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="postalcode" Type="System.String" DbType="NVarChar(10)" />
+    <Parameter Name="country" Type="System.String" DbType="NVarChar(15)" />
+    <Parameter Name="phone" Type="System.String" DbType="NVarChar(24)" />
+    <Parameter Name="fax" Type="System.String" DbType="NVarChar(24)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Id="FunctionId3" Name="Production.DeleteSuppliers" Method="DeleteSuppliers">
+    <Parameter Name="supplierid" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

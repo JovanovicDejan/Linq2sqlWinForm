@@ -1,0 +1,12 @@
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoPrvi\ProjekatDeoPrvi\bin\Debug\ProjekatDeoPrvi.exe.config
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoPrvi\ProjekatDeoPrvi\bin\Debug\ProjekatDeoPrvi.exe
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoPrvi\ProjekatDeoPrvi\bin\Debug\ProjekatDeoPrvi.pdb
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoPrvi\ProjekatDeoPrvi\obj\Debug\ProjekatDeoPrvi.csproj.AssemblyReference.cache
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoPrvi\ProjekatDeoPrvi\obj\Debug\ProjekatDeoPrvi.csproj.SuggestedBindingRedirects.cache
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoPrvi\ProjekatDeoPrvi\obj\Debug\ProjekatDeoPrvi.Form1.resources
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoPrvi\ProjekatDeoPrvi\obj\Debug\ProjekatDeoPrvi.Properties.Resources.resources
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoPrvi\ProjekatDeoPrvi\obj\Debug\ProjekatDeoPrvi.csproj.GenerateResource.cache
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoPrvi\ProjekatDeoPrvi\obj\Debug\ProjekatDeoPrvi.csproj.CoreCompileInputs.cache
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoPrvi\ProjekatDeoPrvi\obj\Debug\ProjekatDeoPrvi.exe
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoPrvi\ProjekatDeoPrvi\obj\Debug\ProjekatDeoPrvi.pdb
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoPrvi\ProjekatDeoPrvi\obj\Debug\ProjekatDeoPrvi.FilterCity.resources
