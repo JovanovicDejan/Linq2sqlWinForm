@@ -1,0 +1,16 @@
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\bin\Debug\ProjekatDeoDrugi.exe.config
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\bin\Debug\ProjekatDeoDrugi.exe
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\bin\Debug\ProjekatDeoDrugi.pdb
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\bin\Debug\EntityFramework.dll
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\bin\Debug\EntityFramework.xml
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\obj\Debug\ProjekatDeoDrugi.csproj.AssemblyReference.cache
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\obj\Debug\ProjekatDeoDrugi.csproj.SuggestedBindingRedirects.cache
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\obj\Debug\ProjekatDeoDrugi.Form1.resources
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\obj\Debug\ProjekatDeoDrugi.Properties.Resources.resources
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\obj\Debug\ProjekatDeoDrugi.csproj.GenerateResource.cache
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\obj\Debug\ProjekatDeoDrugi.csproj.CoreCompileInputs.cache
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\obj\Debug\ProjekatDeoDrugi.csproj.CopyComplete
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\obj\Debug\ProjekatDeoDrugi.exe
+C:\Users\dejan\Desktop\Microsoft Za pristup\LINQ\Kolokvijum2\SolProjekatDeoDrugi\SolProjekatDeoDrugi\ProjekatDeoDrugi\obj\Debug\ProjekatDeoDrugi.pdb

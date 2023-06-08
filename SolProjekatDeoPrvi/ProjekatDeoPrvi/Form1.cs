@@ -233,8 +233,6 @@ namespace ProjekatDeoPrvi
                     MessageBox.Show("Supplier does not exists");
                     return;
                 }
-
-                bool check = Check_Length();
                 supplierChange.companyname = updtxtCompany.Text;
                 supplierChange.contactname = updtxtContact.Text;
                 supplierChange.contacttitle = updtxtTitle.Text;
